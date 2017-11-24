@@ -1,0 +1,45 @@
+.custom-image img {
+  display: block;
+  margin-left: 80px;
+  margin-top: 10px;
+  height: 130px;
+}
+.custom-card {
+  /*padding: 10px 90px;*/
+  font-size: 14px;
+  text-align: center;
+}
+.custom-card-p {
+  color: #999;
+  text-align: center;
+}
+
+.custom-seperator{
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.itemPrice{
+    margin: 7px 5px;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    background: #16cbe6;
+    color: #fff;
+    width: 50px;
+    height: 24px;
+    text-align: center;
+}
+
+.itemAddtoCar{
+    float: right !important;
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 5px;
+    margin-top: 5px;
+}

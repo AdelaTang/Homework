@@ -1,0 +1,19 @@
+.color{
+    color: #16cbe6;
+}
+
+.footerStyle{
+    background: #171717;
+    border-top: 3px solid #ddd;
+    box-shadow: inset 0px 0px 3px #111;
+    color: #ccc;
+    font-size: 14px;
+    line-height: 25px;
+    padding: 35px 0px 10px 0px;
+}
+
+.footerTitleStyle{
+    font-size: 26px;
+    color: #eee;
+    font-style: normal;
+}
